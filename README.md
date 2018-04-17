@@ -1,2 +1,2 @@
 # bbs
-a BBS program
+It's a BBS program using flask frame built by JackLv.
